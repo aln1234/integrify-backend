@@ -1,7 +1,7 @@
 import jsonwebtoken from "jsonwebtoken";
 
 //model
-import { Token } from "../models/token";
+import { Token } from "../models/Token";
 
 //type
 import { TUser } from "../types/users";

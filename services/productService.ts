@@ -2,7 +2,7 @@
 import mongoose, { Types } from "mongoose";
 
 //model
-import { Product } from "../models/product";
+import { Product } from "../models/Product";
 
 //type
 import { TProduct, TProductSchema } from "../types/product.js";

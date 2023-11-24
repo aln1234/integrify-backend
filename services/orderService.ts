@@ -1,7 +1,7 @@
 import mongoose, { Types } from "mongoose";
 
 //model
-import { Order } from "../models/order";
+import { Order } from "../models/Order";
 import { OrderProduct } from "../models/order-product";
 
 //type

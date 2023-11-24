@@ -2,7 +2,7 @@ import mongoose, { Types } from "mongoose";
 
 // model
 import { User } from "../models/user";
-import { Permission } from "../models/permission";
+import { Permission } from "../models/Permission";
 
 // type
 import { TUser, TUserSchema } from "../types/users";

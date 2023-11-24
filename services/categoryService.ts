@@ -5,7 +5,7 @@ import { TCategory, TCategorySchema } from "../types/category";
 
 //model
 import { Category } from "../models/category";
-import { Product } from "../models/product";
+import { Product } from "../models/Product";
 
 async function findAll() {
   return await Category.find().lean().exec();

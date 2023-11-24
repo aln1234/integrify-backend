@@ -4,7 +4,7 @@ import mongoose, { Types } from "mongoose";
 import { User } from "../models/user";
 import { Permission } from "../models/Permission";
 
-// type
+// types
 import { TUser, TUserSchema } from "../types/users";
 import { TPermissionSchema } from "../types/permission";
 
